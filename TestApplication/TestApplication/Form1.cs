@@ -19,8 +19,7 @@ namespace TestApplication
         static string strAppName;
         string strXmlFilePath;
         string str;
-
-        string teststr = "dfdshbfdsf";
+        
         public frmHome()
         {
             InitializeComponent();        

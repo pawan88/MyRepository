@@ -19,6 +19,7 @@ namespace TestApplication
         static string strAppName;
         string strXmlFilePath;
         string str;
+        private string temp = "test_branch";
         
         public frmHome()
         {

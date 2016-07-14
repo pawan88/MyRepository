@@ -19,6 +19,7 @@ namespace TestApplication
         static string strAppName;
         string strXmlFilePath;
         string str;
+        string testVal = "testval";
         
         public frmHome()
         {
